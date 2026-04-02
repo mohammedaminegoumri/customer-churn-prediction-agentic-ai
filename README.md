@@ -92,3 +92,25 @@ This project lays the foundation for integrating predictive models with agentic 
    ```bash
    git clone https://github.com/yourusername/customer-churn-prediction-agentic-ai.git
    cd customer-churn-prediction-agentic-ai
+## Install dependencies:
+   pip install -r requirements.txt
+
+   ## Open the notebook:
+   jupyter notebook notebooks/01_eda_and_modeling.ipynb
+   ## Requirements
+   pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+shap
+jupyter
+## License
+MIT License — feel free to use and adapt for learning or portfolio purposes.
+## Connect
+Built as part of a hands-on data science project in Casablanca, Morocco.
+Open to collaborations on retention analytics and agentic AI applications.
+
+
